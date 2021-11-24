@@ -1,0 +1,14 @@
+{
+  "name": "colors",
+  "version": "0.0.1",
+  "description": "Example how to use npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hola a todos\" && exit 1"
+  },
+  "author": "Rafael Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

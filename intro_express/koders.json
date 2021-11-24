@@ -1,0 +1,52 @@
+{
+    "koders": [
+        {
+            "nombre": "Balan",
+            "genero": "m"
+        },
+        {
+            "nombre": "German",
+            "genero": "m"
+        },
+        {
+            "nombre": "Selene",
+            "genero": "w"
+        },
+        {
+            "nombre": "Aurora",
+            "genero": "w"
+        },
+        {
+            "nombre": "Carlos",
+            "genero": "m"
+        },
+        {
+            "nombre": "Fego",
+            "genero": "m"
+        },
+        {
+            "nombre": "Yesus",
+            "genero": "m"
+        },
+        {
+            "nombre": "Marco",
+            "genero": "m"
+        },
+        {
+            "nombre": "Jairo",
+            "genero": "m"
+        },
+        {
+            "nombre": "Rafa",
+            "genero": "m"
+        },
+        {
+            "nombre": "Mora",
+            "genero": "m"
+        },
+        {
+            "nombre": "Odon",
+            "genero": "m"
+        }
+    ]
+}
