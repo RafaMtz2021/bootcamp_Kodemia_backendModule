@@ -1,0 +1,44 @@
+{
+    "mentors": [
+        {
+            "nombre": "Oscar",
+            "genero": "m"
+        },
+        {
+            "nombre": "Elvira",
+            "genero": "w"
+        },
+        {
+            "nombre": "Alejandra",
+            "genero": "w"
+        },
+        {
+            "nombre": "Iván",
+            "genero": "m"
+        },
+        {
+            "nombre": "Alan",
+            "genero": "m"
+        },
+        {
+            "nombre": "Leonardo",
+            "genero": "m"
+        },
+        {
+            "nombre": "Charles",
+            "genero": "m"
+        },
+        {
+            "nombre": "Alfred",
+            "genero": "m"
+        },
+        {
+            "nombre": "José",
+            "genero": "m"
+        },
+        {
+            "nombre": "Verónica",
+            "genero": "w"
+        }
+    ]
+}

@@ -13,10 +13,6 @@
             "genero": "w"
         },
         {
-            "nombre": "Aurora",
-            "genero": "w"
-        },
-        {
             "nombre": "Carlos",
             "genero": "m"
         },
@@ -45,7 +41,7 @@
             "genero": "m"
         },
         {
-            "nombre": "Odon",
+            "nombre": "Daniel",
             "genero": "m"
         }
     ]
